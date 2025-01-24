@@ -4,6 +4,6 @@
 
 ## Getting Started
 
-- Install dependencies by running `yarn` or `npm install`.
-- Run `yarn start` or `npm run start` to start the local development server.
-- 😎 That's it! You're ready to start building awesome application.
+Getting Going
+You can run yarn or npm install to add requirements.
+To start the local development server, type yarn start or npm run start. 😏 Goodbye! You are now ready to start making cool apps.
